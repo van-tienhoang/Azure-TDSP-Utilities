@@ -90,7 +90,7 @@ source activate idear_env
 Then, in either shell, 
 
 ```
-jupyter nbextension enable --py –sys-prefix widgetsnbextension
+jupyter nbextension enable --py -–sys-prefix widgetsnbextension
 jupyter notebook
 ```
 
